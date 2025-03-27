@@ -4,7 +4,7 @@
 This project focuses on detecting network intrusions using machine learning techniques. It involves preprocessing a cybersecurity dataset, feature selection, model training, evaluation, and visualization.
 
 ## Dataset
-The dataset used in this project is a cybersecurity dataset that contains various network traffic features labeled as normal or malicious traffic.
+The dataset used in this project is a cybersecurity network intrusion detection dataset that contains various network traffic features labeled as normal or malicious traffic.
 
 ### Download the Dataset
 1. **Option 1: Provided CSV File**
