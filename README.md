@@ -59,6 +59,4 @@ jupyter notebook CyberThreat.ipynb
 ## Acknowledgments
 This project is inspired by various cybersecurity datasets and intrusion detection methodologies. Special thanks to open-source datasets and tools used in this project.
 
-## License
-This project is licensed under the MIT License.
 
